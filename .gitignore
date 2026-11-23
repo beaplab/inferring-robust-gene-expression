@@ -1,0 +1,13 @@
+# Data and outputs are not in the repository (too large; data to be deposited at publication)
+/data/
+/results/
+
+# R / Python / workflow / editor junk
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.pyc
+.nextflow*
+work/
+.DS_Store
